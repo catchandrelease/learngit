@@ -6,3 +6,4 @@ change and be added.
 change not be added.
 Creating a new branch is quick and simple.
 test --no-ff
+begin bug branch test, found bug 101
