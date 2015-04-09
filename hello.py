@@ -1,0 +1,2 @@
+#!/learngit
+print('hello,world.')
